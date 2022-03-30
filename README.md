@@ -1,5 +1,5 @@
 # Air landing page
-- [LANDING DEMO LINK](https://jstmpelowycz.github.io/layout_dia/)
+- [LANDING DEMO LINK](https://jstmpelowycz.github.io/air_landing_page/)
 - [FIGMA DESIGN LINK](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35)
 
 ## Description
